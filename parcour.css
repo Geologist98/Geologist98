@@ -1,0 +1,28 @@
+#ds {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+}
+#ds h1 {
+    font-size: 25px;
+    padding: 10px;
+}
+
+
+#ds ul{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    
+}
+
+#ds ul li {
+    list-style: none;
+}
+
+#ds ul li a {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+}
